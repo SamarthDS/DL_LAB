@@ -1,0 +1,15 @@
+PROGRAM 1 : Compare the performance of different optimizers on a single regression or classification
+
+PROGRAM 2 : Experiment with different weight initialization techniques & observer their impact on model convergence
+
+PROGRAM 3 : Apply convolution filters to an image and visualize the extracted features
+
+PROGRAM 4 : Apply CNN on CIFAR 10
+
+PROGRAM 5 : Ozone Prediction using LSTM and GRU
+
+PROGRAM 6 : LSTM vs GRU for word embeddings(Nlp based)
+
+PROGRAM 7 : Transformer model for language translation
+
+PROGRAM 8 : Hugging Face model visualization
